@@ -11,6 +11,9 @@ string dectobin(int decimal){
     return s;
 }
 
+
+
+
 int main(int argc, char *argv[]){
     if(argc != 2){
         cout<<"Invalid cmd line arg. Usage: ./a.out <input file>\n";
